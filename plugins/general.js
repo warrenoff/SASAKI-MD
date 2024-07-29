@@ -1,19 +1,3 @@
-/**
-========================================================
-               |•|
-       SASAKI |•| MD
-========================================================
- Copyright (C) 2022.                                                                                        
- Licensed under the  Apache 2.0 License;                                                      
- You may not use this file except in compliance with the License.    
- It is supplied in the hope that it may be useful                                     
- * @project_name : SASAKI-MD                                                                   
- * @author : SASAKI-Official <https://github.com/Alp24ni>   
- * @description : SASAKI-MD ,A Multi-functional whatsapp bot.       
- * @version 2.0.1                                                                                             
- ========================================================
- **/
-
 const { tlang, botpic, cmd, prefix, runtime, Config , sleep } = require('../lib')
 const axios = require('axios')
 const speed = require('performance-now')
@@ -24,7 +8,7 @@ cmd({
     alias :['gpt'],
     desc: "chat with an AI(GPT)",
     category: "AI",
-    use: '<Hii,Sasaki>',
+    use: '<Hii, 𝐒𝐀𝐒𝐀𝐊𝐈-𝐌𝐃>',
     filename: __filename,
 },
 async(Void, citel,text) => {
@@ -119,7 +103,7 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/X-S-L-A-S-H-E-R/Secktor-2.0')
+        let { data } = await axios.get('https://api.github.com/repos/https://github.com/Alp24ni/SASAKI-MD')
         let cap = `🧣 *${botName}'s Script* 🧣\n\n*🎀 Total Forks:* ${
           repo.forks_count
         }\n*✨ Total Stars:* ${repo.stargazers_count}\n*📜 License:* ${
@@ -128,7 +112,7 @@ cmd({
           2
         )} MB\n*📅 Last Updated:* ${repo.updated_at}\n\n*🔗 Repo Link:* ${
           repo.html_url
-        }\n\n❝ Dont forget to give a Star ⭐ to the repo. It's made with restless hardwork by *Team Secktor*. ❞\n\n*©️ Team Secktor- 2023*`
+        }\n\n❝ Dont forget to give a Star ⭐ to the repo. It's made with restless hardwork by *Team SASAKI*. ❞\n\n*©️ Team SASAKI- 2024*`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
@@ -136,7 +120,7 @@ cmd({
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "Secktor-Repo",
+                    title: "SASAKI-REPO",
                     body: "Easy to Use",
                     thumbnail: log0,
                     mediaType: 4,
@@ -165,7 +149,7 @@ cmd({
         latensie = speed() - timestampe;
         let ter = `
 🌀 *${tlang().title}* 🌀
-*🌟Description🌟:* A WhatsApp bot with rich features, build in NodeJs to make your WhatsApp enjoyable.
+*🌟Description🌟:* SASAKI, A WhatsApp bot with rich features, build in NodeJs to make your WhatsApp enjoyable.
 *⚡Speed:* ${latensie.toFixed(4)} ms
 *🚦Uptime:* ${runtime(process.uptime())}
 *🃏Version:* 0.0.7
@@ -182,7 +166,7 @@ cmd({
             contextInfo: {
                 externalAdReply: {
                     title: tlang().title,
-                    body: `Bot-Status`,
+                    body: `SASAKI-BOT`,
                     thumbnail: log0,
                     mediaType: 2,
                     mediaUrl: ``,
@@ -207,8 +191,8 @@ cmd({
 async(Void, citel,text,{isCreator}) => {
 
 if(!isCreator) return citel.reply(tlang().owner);
-let str="*All available themes in Secktor-2.0*"
-str+=`1. SECKTOR-2.0\n2. NEZUKO\n3. ANIME\n\n these are the themes of Secktor-2.0 Userbot.\_Reply ${prefix}setvar THEME:ANIME`
+let str="*All available themes in SASAKI-MD*"
+str+=`1. SASAKI-MD\n\n these are the themes of SASAKI-MD Userbot.\_Reply ${prefix}setvar THEME:SASAKI-MD`
 return citel.reply(str)
     
 }
