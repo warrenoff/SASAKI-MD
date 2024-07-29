@@ -113,7 +113,8 @@ N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé des développeur
 
 ## `Main Dev` 
 
-<a href="https://github.com/toge012345"><img src="https://github.com/toge012345.png?size=100" width="250" height="250" alt="toge012345"/></a>
+<a href="https://github.com/toge012345"><img src="https://github.com/toge012345.png" alt="toge012345"/></a>
+
 Bug Fixer, Maintainer, updates
 
   
