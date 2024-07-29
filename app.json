@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Akashi Sasaki "
+      "value": "Akashi Sasaki"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "🌀;AkashiSasqki",
+     "value": "SASAKI-MD;AKASHI BOT",
      "required": false 
   },
   "heroku": {
