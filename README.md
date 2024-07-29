@@ -19,12 +19,12 @@
 ***Clicquer sur  [FORK](https://github.com/Alp24ni/SASAKI-MD/fork)***
 
 
-𝐋𝐞 𝐁𝐨𝐭 𝐒𝐀𝐒𝐀𝐊𝐈-𝐌𝐃 𝐄𝐬𝐭 𝐔𝐧 𝐁𝐨𝐭 𝐌𝐮𝐥𝐭𝐢 𝐃𝐞𝐯𝐢𝐜𝐞 𝐃é𝐯𝐞𝐥𝐨𝐩𝐩é 𝐏𝐚𝐫 𝐋𝐚 𝑇𝛯𝛥𝛭 𝐺𝛩𝐽𝛩 𝛭𝐷
+𝐋𝐞 𝐁𝐨𝐭 𝐒𝐀𝐒𝐀𝐊𝐈-𝐌𝐃 𝐄𝐬𝐭 𝐔𝐧 𝐁𝐨𝐭 𝐌𝐮𝐥𝐭𝐢 𝐃𝐞𝐯𝐢𝐜𝐞 𝐃é𝐯𝐞𝐥𝐨𝐩𝐩é 𝐏𝐚𝐫 𝐋𝐚 **TEAM SASAKI**
 𝐂𝐞 𝐁𝐨𝐭 𝐄𝐬𝐭 𝐂𝐨𝐧𝐧𝐮 𝐏𝐨𝐮𝐫 𝐄𝐧𝐫𝐢𝐜𝐡𝐢𝐫 𝐕𝐨𝐬 𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧𝐬 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩.
 N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé des développeurs.
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Denzo+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=;TEAM 𝑮𝑶𝑱𝑶-𝑴𝑫." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Denzo+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=;WhatsApp bot." alt="Typing SVG" /></a>
   </p>
 
 <br>
