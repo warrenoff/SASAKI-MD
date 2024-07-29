@@ -1,15 +1,15 @@
 {
-               "name": "crazy-md",
+               "name": "SASAKI-MD",
                "version": "0.0.1",
-               "description": "Multi device whatsapp bot by CrazyPrince.",
+               "description": "Multi device whatsapp bot by AkashiSasaki.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name crazy --max-memory-restart 490M",
-                "stop": "pm2 stop crazy"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name sasaki --max-memory-restart 490M",
+                "stop": "pm2 stop sasaki"
                 },
-               "author": "CrazyPrince",
+               "author": "Akashi",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -69,10 +69,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/CrazyPrince/CRAZY-MD-v2.git"
+                 "url": "git+https://github.com/Alp24ni/SASAKI-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/CrazyPrince/CRAZY-MD-v2/issues"
+                 "url": "https://github.com/Alp24ni/SASAKI-MD/issues"
                   },
-                 "homepage": "https://github.com/CrazyPrince/CRAZY-MD-v2#readme"
+                 "homepage": "https://github.com/Alp24ni/SASAKI-MD#readme"
                   }
