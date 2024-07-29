@@ -1,19 +1,3 @@
-/**
-========================================================
-       |•|
-           SASAKI ░ MD    
-========================================================
- Copyright (C) 2022.                                                                                        
- Licensed under the  Apache 2.0 License;                                                      
- You may not use this file except in compliance with the License.    
- It is supplied in the hope that it may be useful                                     
- * @project_name : SASAKI-MD                                                                   
- * @author : SASAKI-Official <https://github.com/Alp24ni>   
- * @description : SASAKI-MD ,A Multi-functional whatsapp bot.       
- * @version 2.0.1                                                                                             
- ========================================================
- **/
-
 const { dare, truth, random_question } = require('../lib/truth-dare.js')
 const axios = require('axios')
 const { cmd } = require('../lib')
