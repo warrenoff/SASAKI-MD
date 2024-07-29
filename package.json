@@ -4,7 +4,7 @@
                "description": "Multi device whatsapp bot by AkashiSasaki.",
                "main": "lib/client.js",
                "type": "commonjs",
-               "license": "GPL-3.0",
+               "license": "Apache 2.0",
    "scripts": {
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name sasaki --max-memory-restart 490M",
                 "stop": "pm2 stop sasaki"
