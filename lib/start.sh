@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting Secktor-2.0..."
+echo "Starting SASAKI-MD..."
 node lib/client.js
 done
