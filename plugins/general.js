@@ -1,15 +1,15 @@
 /**
 ========================================================
-     █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
-     ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
+               |•|
+       SASAKI |•| MD
 ========================================================
  Copyright (C) 2022.                                                                                        
- Licensed under the  GPL-3.0 License;                                                      
+ Licensed under the  Apache 2.0 License;                                                      
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
- * @project_name : Secktor-2.0                                                                    
- * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R>   
- * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.       
+ * @project_name : SASAKI-MD                                                                   
+ * @author : SASAKI-Official <https://github.com/Alp24ni>   
+ * @description : SASAKI-MD ,A Multi-functional whatsapp bot.       
  * @version 2.0.1                                                                                             
  ========================================================
  **/
@@ -24,7 +24,7 @@ cmd({
     alias :['gpt'],
     desc: "chat with an AI(GPT)",
     category: "AI",
-    use: '<Hii,Secktor>',
+    use: '<Hii,Sasaki>',
     filename: __filename,
 },
 async(Void, citel,text) => {
@@ -122,7 +122,7 @@ cmd({
         let { data } = await axios.get('https://api.github.com/repos/X-S-L-A-S-H-E-R/Secktor-2.0')
         let cap = `🧣 *${botName}'s Script* 🧣\n\n*🎀 Total Forks:* ${
           repo.forks_count
-        }\n*⭐ Total Stars:* ${repo.stargazers_count}\n*📜 License:* ${
+        }\n*✨ Total Stars:* ${repo.stargazers_count}\n*📜 License:* ${
           repo.license.name
         }\n*📁 Repo Size:* ${(repo.size / 1024).toFixed(
           2
@@ -164,12 +164,12 @@ cmd({
         timestampe = speed();
         latensie = speed() - timestampe;
         let ter = `
-🔰 *${tlang().title}* 🔰
-*🌟Description:* A WhatsApp bot with rich features, build in NodeJs to make your WhatsApp enjoyable.
+🌀 *${tlang().title}* 🌀
+*🌟Description🌟:* A WhatsApp bot with rich features, build in NodeJs to make your WhatsApp enjoyable.
 *⚡Speed:* ${latensie.toFixed(4)} ms
 *🚦Uptime:* ${runtime(process.uptime())}
-*🕸Version:* 0.0.7
-*👤Owner:*  ${Config.ownername}
+*🃏Version:* 0.0.7
+*🎭Owner:*  ${Config.ownername}
 *Powered by ${tlang().title}*
 `;
         let buttonMessaged = {
