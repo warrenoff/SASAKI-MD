@@ -1,0 +1,58 @@
+
+{
+    "_JSON_": true,
+    "AUTHOR": "toge012345",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "STRINGS": {
+        "updater": {
+            "UPDATE": "Your bot is already on latest version Baka!",
+            "NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
+            "UPDATED_LOCAL": "Fresh Updates Installed!"
+        },
+        "global": {
+            "botName": "SASAKI-MD",
+            "body": " SASAKI!! ",
+            "greet2" : "Hey Baka! I'm the strongest",
+            "pic1": "https://telegra.ph/file/cc292728e97f2b1a1cda3.jpg",
+            "pic2": "https://telegra.ph/file/b9e93178131adc5a47785.jpg",
+            "pic3": "https://telegra.ph/file/05cd1ea5a64be5251d8a0.jpg",
+            "pic4": "https://telegra.ph/file/d4d3a57509ba5e3a1ecc1.jpg",
+            "pic5": "https://telegra.ph/file/6d6772a5ea8d54b597736.jpg",
+            "pic6": "https://telegra.ph/file/482e44fdee7e576bb2d53.jpg",
+            "pic7": "https://telegra.ph/file/3acc05e0bca7f81ec7605.jpg",
+             "greet" : "Oi",
+           "dotbody" : "Yup.I am here.", 
+            "emijii" : "🎍",
+            "promote": "A new worthy Cursed skill arrived",
+            "pmallow": "Hii,This is SASAKI-MD\n*By Team X.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n Powered by SASAKI-MD",
+            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n *Powered by SASAKI-MD*",
+            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n Powered by SASAKI-MD", 
+            "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n Powered by SASAKI-MD",
+            "demote": "You are not Worthy",
+            "antlink": "Link Detected.\n*Good Bye Worthless Demon*",
+            "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 SASAKI-MD*",
+            "mention": " Please mention any user Baka!",
+            "title": "SASAKI-MD",
+            "footer": "Baka! I'm Here!",
+            "by": "Made by: SASAKI Team",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Success ✓",
+            "dot": "Baka!, Why don't you try .help",
+            "couple_male": "I'm sorry i didn't understand for so long",
+            "couple_female": "Put everything in your soulders",
+            "admin": "𝑇ℎ𝑖𝑠 𝑐𝑜𝑚𝑚𝑎𝑛𝑑 𝑖𝑠 𝑜𝑛𝑙𝑦 𝑓𝑜𝑟 𝑔𝑟𝑜𝑢𝑝 𝐴𝑑𝑚𝑖𝑛⚠️!",
+            "botAdmin": "𝑃𝑙𝑒𝑎𝑠𝑒 𝑃𝑟𝑜𝑣𝑖𝑑𝑒 𝑚𝑒 𝐴𝑑𝑚𝑖𝑛 𝑅𝑜𝑙𝑒 .❗",
+            "owner": "𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+            "group": "𝑻𝒉𝒊𝒔 𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝑶𝒏𝒍𝒚 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑𝒔❗",
+            "private": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+            "bot": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓⚠️",
+            "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅"
+        },
+        "error": {
+            "text": "Task Failed"
+        }
+    }
+        }
+          
