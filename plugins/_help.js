@@ -44,19 +44,21 @@ Secktor.cmd({
                 let total = await sck1.countDocuments()
                 let str = `╭━〔 *${Config.botname}* 〕━◉\n`
                 str +=
-                    '```' + `┃ ╭━━━━━━━━━━━━━━◉
-┃ ┃ Plugins:- ${commands.length}
-┃ ┃ User:- ${citel.pushName}
-┃ ┃ Owner:- ${Config.ownername}
-┃ ┃ Prefix:- [ ${prefix} ]
-┃ ┃ Version:- 1.0.0
-┃ ┃ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
-┃ ┃ Time:- ${time}
-┃ ┃ Date:- ${date}
-┃ ┃
-┃ ┃  ▎▍▌▌▉▏▎▌▉▐▏▌▎
-┃ ┃  ▎▍▌▌▉▏▎▌▉▐▏▌▎
-┃ ╰━━━━━━━━━━━━━━◉\n
+                    '```' + `┃✦╭──────────────◆
+┃✦┃ Plugins:- ${commands.length}
+┃✦┃ User:- ${citel.pushName}
+┃✦┃ Owner:- ${Config.ownername}
+┃✦┃ bot:- 𝐒𝐀𝐒𝐀𝐊𝐈-𝐌𝐃
+┃✦┃ Prefix:- [ ${prefix} ]
+┃✦┃ Version:- 1.0.0
+┃✦┃ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+┃✦┃ Time:- ${time}
+┃✦┃ Date:- ${date}
+┃✦┃
+┃✦┃  ▎▍▌▌▉▏▎▌▉▐▏▌▎
+┃✦┃  ▎▍▌▌▉▏▎▌▉▐▏▌▎
+┃✦┃
+╰═══════════════⊷❍\n
 ` + '```'
                 for (const category in cmds) 
                 {
