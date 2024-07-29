@@ -117,6 +117,10 @@ N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé des développeur
 
 Bug Fixer, Maintainer, updates
 
+## `Attention 🛡️`
+
+- Ce bot n'est pas créé par « WhatsApp Inc ». Une mauvaise utilisation du bot pourrait donc « bannir » votre « compte WhatsApp ! » (Bien que votre compte WhatsApp ne puisse être débanni qu'une seule fois.) - Je ne suis pas responsable du bannissement de votre compte. - Utilisez à vos propres risques en gardant cet avertissement à l'esprit.
+
   
 
 
