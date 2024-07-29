@@ -1,19 +1,3 @@
-/**
-========================================================
-     █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
-     ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
-========================================================
- Copyright (C) 2022.                                                                                        
- Licensed under the  GPL-3.0 License;                                                      
- You may not use this file except in compliance with the License.    
- It is supplied in the hope that it may be useful                                     
- * @project_name : Secktor-2.0                                                                    
- * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R>   
- * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.       
- * @version 2.0.1                                                                                             
- ========================================================
- **/
-
 const { addnote,cmd, sck1, delnote, allnotes, delallnote, tlang,fetchJson, botpic, runtime, prefix, Config ,alive  } = require('../lib')
 const {TelegraPh} = require('../lib/scraper')
 const util = require('util');
@@ -51,8 +35,8 @@ cmd({
                         body: 'Get you Session ID',
                         thumbnail: log0,
                         mediaType: 2,
-                        mediaUrl: `https://camo.githubusercontent.com/f026740d43de526846892cc5e38ef882f5fb484f2735e69e3659a8370ae638a8/68747470733a2f2f74656c656772612e70682f66696c652f3363333431383238643836656537613839633733662e6a7067`,
-                        sourceUrl: `WWW.YOUTUBE.COM/c/infinite9452`,
+                        mediaUrl: `https://telegra.ph/file/19fe2e39a962db037f083.jpg`,
+                        sourceUrl: `WWW.YOUTUBE.COM/c/kenzo3146`,
                     },
 
                 },
@@ -345,13 +329,13 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Sʟᴀꜱʜᴇʀ-Oꜰꜰɪᴄɪᴀʟ.*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by TEAM SASAKI.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
 _This is  ${tlang().title}._
 ${alivemessage}
 
-*Version:-* _2.0.1_
+*Version:-* _1.0.0_
 *Uptime:-* _${runtime(process.uptime())}_
 *Owner:-* _${Config.ownername}_
 *Branch:-* _${Config.BRANCH}_
