@@ -111,5 +111,12 @@ N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé des développeur
     <br>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
+## `Main Dev` 
+
+<a href="https://github.com/toge012345"><img src="https://github.com/toge012345.png?size=100" width="250" height="250" alt="toge012345"/></a>
+Bug Fixer, Maintainer, updates
+
+  
+
 
 
