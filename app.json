@@ -1,14 +1,14 @@
 {
-  "name": "Crazy-Md",
+  "name": "SASAKI-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/637fb2c9c6fadb5c39c62.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "crazy", "Crazy-Bot", "CrazyPrince","CrazyMD","theme bot","multi device","baileys","Crazy_Prince"],
+  "logo": "https://telegra.ph/file/acf07e2ad76c2c142c3b9.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Sasaki", "Sasaki-Bot", "Akashisasaki","SasakiMD","theme bot","multi device","baileys","Akashi_Sasaki"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Crazy Prince"
+      "value": "Akashi Sasaki "
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -28,7 +28,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/984e15c49561a5dd9d112.jpg"
+     "value": "https://telegra.ph/file/acf07e2ad76c2c142c3b9.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -64,7 +64,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "237620114013"
+       "value": "242069953931"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
@@ -80,7 +80,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are CRAZY,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "CRAZY"
+     "value": "SASAKI"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "👑;CrazyPrince",
+     "value": "🌀;AkashiSasqki",
      "required": false 
   },
   "heroku": {
