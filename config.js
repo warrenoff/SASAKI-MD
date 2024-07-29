@@ -7,9 +7,9 @@ process.env.OWNER_NUMBER = process.env.OWNER_NUMBER || '242069953931'
 global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
-global.email = 'crazycvv@gmail.com'
+global.email = 'deathsgun2.0@gmail.com'
 global.github = 'https://github.com/Alp24ni/SASAKI-MD'
-global.location = 'Sultanpur IN'
+global.location = 'Lome'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '242069953931'
 global.devs = '242069953931';
