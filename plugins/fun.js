@@ -1,15 +1,15 @@
 /**
 ========================================================
-     █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
-     ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
+       |•|
+           SASAKI ░ MD    
 ========================================================
  Copyright (C) 2022.                                                                                        
- Licensed under the  GPL-3.0 License;                                                      
+ Licensed under the  Apache 2.0 License;                                                      
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
- * @project_name : Secktor-2.0                                                                    
- * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R>   
- * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.       
+ * @project_name : SASAKI-MD                                                                   
+ * @author : SASAKI-Official <https://github.com/Alp24ni>   
+ * @description : SASAKI-MD ,A Multi-functional whatsapp bot.       
  * @version 2.0.1                                                                                             
  ========================================================
  **/
@@ -75,8 +75,8 @@ cmd({
         var quoo = await axios.get(`https://favqs.com/api/qotd`)
         const replyf = `
 ╔════◇
-║ *🎯Content:* ${quoo.data.quote.body}
-║ *👤Author:* ${quoo.data.quote.author}
+║ *🌀Content:* ${quoo.data.quote.body}
+║ *🎭Author:* ${quoo.data.quote.author}
 ║
 ╚════════════╝ `
 return citel.reply(replyf)
