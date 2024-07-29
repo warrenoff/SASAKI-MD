@@ -3,13 +3,13 @@
 </p>
 <p align="center">
   <a href="wa.me//24105114159">
-    <img alt=Support height="550" src="https://telegra.ph/file/3acc05e0bca7f81ec7605.jpg"> 
+    <img alt=Support height="300" src="https://telegra.ph/file/acf07e2ad76c2c142c3b9.jpg"> 
     </p>
 <h1 align="center"> 𝐒𝐀𝐒𝐀𝐊𝐈-𝐌𝐃
 </h1>
 <p align="center"> 𝐒𝐀𝐒𝐀𝐊𝐈-𝐌𝐃
 <p align="center">
- <a href="wa.me//24105114159" target="_blank">
+ <a href="https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a> 
   
