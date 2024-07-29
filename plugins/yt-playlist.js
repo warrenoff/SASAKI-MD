@@ -1,19 +1,3 @@
-/**
-========================================================
-     █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
-     ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
-========================================================
- Copyright (C) 2022.                                                                                        
- Licensed under the  GPL-3.0 License;                                                      
- You may not use this file except in compliance with the License.    
- It is supplied in the hope that it may be useful                                     
- * @project_name : Secktor-2.0                                                                    
- * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R>   
- * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.       
- * @version 2.0.1                                                                                             
- ========================================================
- **/
- 
 const { tlang, cmd, sleep, getBuffer, prefix, Config } = require('../lib')
 const ytdl = require('ytdl-secktor')
 const yts = require('secktor-pack')
@@ -81,8 +65,8 @@ yts( opts, async function ( err, playlist ) {
                                 thumbnail: log0,
                                 renderLargerThumbnail: true,
                                 mediaType: 2,
-                                mediaUrl: 'https://github.com/X-S-L-A-S-H-E-R/Secktor-2.0',
-                                sourceUrl: 'https://github.com/X-S-L-A-S-H-E-R/Secktor-2.0'
+                                mediaUrl: 'https://github.com/Alp24ni/SASAKI-MD',
+                                sourceUrl: 'https://github.com/Alp24ni/SASAKI-MD'
                             }
                         }
                     }
