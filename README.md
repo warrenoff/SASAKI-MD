@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=🛡️TEAM SASAKI🛡️" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=600&height=100&lines=🛡️TEAM SASAKI🛡️" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <a href="wa.me//24105114159">
@@ -43,7 +43,7 @@ N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé des développeur
 
 1. If You don't have an account in Replit. Create a account.
     <br>
-<a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=Red'/></a>
 
 
 2. Now Deploy
