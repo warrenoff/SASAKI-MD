@@ -1,21 +1,3 @@
-
-/**
-========================================================
-      █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
-      ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
-========================================================
-
- Copyright (C) 2022.                                     
- Licensed under the  GPL-3.0 License;                    
- You may not use this file except in compliance with the License.  
- It is supplied in the hope that it may be useful                           
- * @project_name : Secktor-2.0                                             
- * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R
- * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.   
- * @version 2.0.1                                                                               
- ========================================================
- **/
-
 const os = require('os')
 const moment = require("moment-timezone")
 const fs = require("fs")
@@ -23,7 +5,7 @@ const Config = require('../config')
 let { fancytext, tlang, tiny, runtime, formatp, botpic, prefix, sck1 } = require("../lib");
 const long = String.fromCharCode(8206)
 const readmore = long.repeat(4001)
-const Secktor = require('../lib/commands')
+const Secktor = require('../lib/plugins')
 
     //---------------------------------------------------------------------------
 Secktor.cmd({
@@ -67,10 +49,13 @@ Secktor.cmd({
 ┃ ┃ User:- ${citel.pushName}
 ┃ ┃ Owner:- ${Config.ownername}
 ┃ ┃ Prefix:- [ ${prefix} ]
-┃ ┃ Version:- 2.0.1
+┃ ┃ Version:- 1.0.0
 ┃ ┃ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
 ┃ ┃ Time:- ${time}
 ┃ ┃ Date:- ${date}
+┃ ┃
+┃ ┃  ▎▍▌▌▉▏▎▌▉▐▏▌▎
+┃ ┃  ▎▍▌▌▉▏▎▌▉▐▏▌▎
 ┃ ╰━━━━━━━━━━━━━━◉\n
 ` + '```'
                 for (const category in cmds) 
@@ -86,7 +71,7 @@ Secktor.cmd({
                    }
   
                 }
-                str+= `*⭐️Type:* _${prefix}help cmd_ name to know more about specific command.\n*Eg:* _${prefix}help attp_\n*Made with ❤️ in Nodejs* `
+                str+= `*⭐️Type:* _${prefix}help cmd_ name to know more about specific command.\n*Eg:* _${prefix}help attp_\n*Made with ❤️ in SASAKI TEAM* `
                 let buttonMessaged = {
                     image: { url: await botpic() },
                     caption: str
