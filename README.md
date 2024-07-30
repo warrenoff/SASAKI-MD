@@ -7,7 +7,7 @@
 </h1>
 <p align="center"> 
   
-<p align="center"> A Whatsapp Bot Create By Team sasaki, To Do Everything That Is Possible On WhatsApp
+<p align="center"> A Whatsapp Bot Create By Team Sasaki, To Do Everything That Is Possible On WhatsApp
  
   </a>
 </p>
@@ -23,11 +23,11 @@
 
 
    <p align="left">
-  <a href="https://github.com/Alpni/SASAKI-MD/fork">
-    <img src="https://img.shields.io/github/forks/Alpni/SASAKI-MD?label=Fork&style=social">
+  <a href="https://github.com/Alp24ni/SASAKI-MD/fork">
+    <img src="https://img.shields.io/github/forks/Alp24ni/SASAKI-MD?label=Fork&style=social">
   <p align="left"> 
   <a href="https://github.com/Alp24ni/SASAKI-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/Alpni/SASAKI-MD?style=social">
+    <img src="https://img.shields.io/github/stars/Alp24ni/SASAKI-MD?style=social">
       
   
  
