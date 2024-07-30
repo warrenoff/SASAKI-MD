@@ -127,6 +127,24 @@
 <h2 align="center"> Star This Repo If You like SASAKI-MD 🌟
 </h2>
 
+### DEPLOY TO TERMUX
+
+```
+termux-setup-storage
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install imagemagick -y
+git clone https://github.com/Alp24ni/SASAKI-MD
+cd SASAKI-MD
+npm install
+npm start
+```
+
 #### Thanks To 
 
 <a href="https://github.com/toge012345"><img src="https://github.com/toge012345.png" alt="toge012345"/></a>
