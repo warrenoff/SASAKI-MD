@@ -123,10 +123,6 @@
 
 ---
 
-
-<h2 align="center"> Star This Repo If You like SASAKI-MD 🌟
-</h2>
-
 ### DEPLOY TO TERMUX
 
 ```
@@ -144,6 +140,9 @@ cd SASAKI-MD
 npm install
 npm start
 ```
+
+<h2 align="center"> Star This Repo If You like SASAKI-MD 🌟
+</h2>
 
 #### Thanks To 
 
