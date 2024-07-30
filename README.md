@@ -108,12 +108,8 @@
 <a href='https://replit.com/github/Alp24ni/SASAKI-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 ---
-
-
-<h2 align="center"> Star This Repo If You like SASAKI-MD 🌟
-</h2>
-
 #
+
 <details close>
 <summary>RENDER DEPLOY PROCESS</summary>
    
@@ -126,6 +122,10 @@
 
 
 ---
+
+
+<h2 align="center"> Star This Repo If You like SASAKI-MD 🌟
+</h2>
 
 #### Thanks To 
 
