@@ -113,6 +113,20 @@
 <h2 align="center"> Star This Repo If You like SASAKI-MD 🌟
 </h2>
 
+#
+<details close>
+<summary>RENDER DEPLOY PROCESS</summary>
+   
+    1: Click "NEW".
+    2: Select "Web Service".
+    3: Click "Build and deploy from a Git repository".
+    4: Now Choose this forked git repo from list.
+    5: And JUST CLICK "Connect". 
+   </details>
+
+
+---
+
 #### Thanks To 
 
 <a href="https://github.com/toge012345"><img src="https://github.com/toge012345.png" alt="toge012345"/></a>
