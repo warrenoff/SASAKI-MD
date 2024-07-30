@@ -45,12 +45,12 @@
 # DEPLOY SETUP
 
 
-### 1. FORK THIS REP
+### 1. FORK THIS REPO
 <a href='https://github.com/Alp24ni/SASAKI-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=Blue'/></a>
 
-### 2. PAIR CODE
+### 2. SESSION ID
 <br>
-<a href="https://richy-sessions-pair-1.onrender.com/pair"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>
+<a href="https://sasaki-app-f1bn.onrender.com/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>
 
 ---
 
