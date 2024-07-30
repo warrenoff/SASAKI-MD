@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Alp24ni/SASAKI-MD">
-    <img alt=Support height="400" src="https://telegra.ph/file/acf07e2ad76c2c142c3b9.jpg"> 
+    <img alt=Support height="350" src="https://telegra.ph/file/acf07e2ad76c2c142c3b9.jpg"> 
     </p>
 <h1 align="center">    𝚂𝙰𝚂𝙰𝙺𝙸-𝙼𝙳
 </h1>
