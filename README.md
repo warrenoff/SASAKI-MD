@@ -123,23 +123,6 @@
 
 ---
 
-### DEPLOY TO TERMUX
-
-```
-termux-setup-storage
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install imagemagick -y
-git clone https://github.com/Alp24ni/SASAKI-MD
-cd SASAKI-MD
-npm install
-npm start
-```
 
 <h2 align="center"> Star This Repo If You like SASAKI-MD 🌟
 </h2>
