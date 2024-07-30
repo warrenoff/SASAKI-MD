@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Alp24ni/SASAKI-MD">
-    <img alt=Support height="350" src="https://telegra.ph/file/19fe2e39a962db037f083.jpg"> 
+    <img alt=Support height="400" src="https://telegra.ph/file/acf07e2ad76c2c142c3b9.jpg"> 
     </p>
 <h1 align="center">    𝚂𝙰𝚂𝙰𝙺𝙸-𝙼𝙳
 </h1>
@@ -35,8 +35,8 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Alp24ni}/count.svg" alt="Alp24ni :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://github.com/Alp24ni/SASAKI-MD" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ <a href="https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=Blue" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 
 
 ### 1. FORK THIS REP
-<a href='https://github.com/Alp24ni/SASAKI-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Alp24ni/SASAKI-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=Blue'/></a>
 
 ### 2. PAIR CODE
 <br>
