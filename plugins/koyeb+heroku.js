@@ -1,19 +1,3 @@
-/**
-========================================================
-     █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
-     ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
-========================================================
- Copyright (C) 2022.                                                                                        
- Licensed under the  GPL-3.0 License;                                                      
- You may not use this file except in compliance with the License.    
- It is supplied in the hope that it may be useful                                     
- * @project_name : Secktor-2.0                                                                    
- * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R>   
- * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.       
- * @version 2.0.1                                                                                             
- ========================================================
- **/
- 
 const axios = require('axios');
 const { tlang,cmd } = require('../lib')
 const Config = require('../config')
@@ -145,7 +129,7 @@ cmd(
         });
         let baseURI = "/apps/" + Config.HEROKU.APP_NAME;
         await heroku.patch(baseURI + "/config-vars", {  body: { [text.split(':')[0]]: text.split(':')[1],  }, });
-        await citel.reply(`🟩var ${text.split(':')[0]} : ${text.split(':')[1]} has been set Successfuly.`);
+        await citel.reply(`SASAKI VAR UPDATE ${text.split(':')[0]} : ${text.split(':')[1]} has been set Successfuly.`);
        }
        let check = await get_deployments()
        if(check==='true') return citel.reply('_Please wait..._\n_Currently 2 instances are running in Koyeb,wait to stop one of them._')
