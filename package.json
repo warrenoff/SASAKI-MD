@@ -1,13 +1,13 @@
 {
                "name": "SASAKI-MD",
                "version": "0.0.1",
-               "description": "Multi device whatsapp bot by AkashiSasaki.",
+               "description": "Multi device whatsapp bot by Akashi-Sasaki.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "Apache 2.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name sasaki --max-memory-restart 490M",
-                "stop": "pm2 stop sasaki"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name sasaki-md --max-memory-restart 490M",
+                "stop": "pm2 stop sasaki-md"
                 },
                "author": "Akashi",
               "dependencies": {
